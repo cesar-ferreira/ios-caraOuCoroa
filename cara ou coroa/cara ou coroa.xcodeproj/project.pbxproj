@@ -13,6 +13,7 @@
 		618246CC23A92B4600F00E26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 618246CA23A92B4600F00E26 /* Main.storyboard */; };
 		618246CE23A92B4700F00E26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 618246CD23A92B4700F00E26 /* Assets.xcassets */; };
 		618246D123A92B4700F00E26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 618246CF23A92B4700F00E26 /* LaunchScreen.storyboard */; };
+		618246D923A93B4D00F00E26 /* DetalhesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618246D823A93B4D00F00E26 /* DetalhesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		618246CD23A92B4700F00E26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		618246D023A92B4700F00E26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		618246D223A92B4700F00E26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		618246D823A93B4D00F00E26 /* DetalhesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				618246CD23A92B4700F00E26 /* Assets.xcassets */,
 				618246CF23A92B4700F00E26 /* LaunchScreen.storyboard */,
 				618246D223A92B4700F00E26 /* Info.plist */,
+				618246D823A93B4D00F00E26 /* DetalhesViewController.swift */,
 			);
 			path = "cara ou coroa";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				618246D923A93B4D00F00E26 /* DetalhesViewController.swift in Sources */,
 				618246C923A92B4600F00E26 /* ViewController.swift in Sources */,
 				618246C523A92B4600F00E26 /* AppDelegate.swift in Sources */,
 				618246C723A92B4600F00E26 /* SceneDelegate.swift in Sources */,
